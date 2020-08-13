@@ -1,1 +1,1 @@
-# Data-python-tutorial
+# Datawhale-python-tutorial
